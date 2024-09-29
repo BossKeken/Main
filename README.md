@@ -3,7 +3,7 @@
 **How to run the Project:**
 
 1. Clone this repo using <br>
-   git clone https://github.com/BossKeken/eTutor.git
+   - `git clone https://github.com/BossKeken/eTutor.git`
 2. Install Netbeans 8.2
 3. Use XAMPP server.
 4. First create the MySql database on XAMPP server using the sql file in the repo
