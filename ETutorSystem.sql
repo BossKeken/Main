@@ -1,4 +1,4 @@
--- Database Name = 'ELearningSystem'
+-- Database Name = 'ETutorSystem'
 
 Create Database ETutorSystem;
 
