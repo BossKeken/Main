@@ -40,7 +40,7 @@ The system services and goals are established by consultation with system user. 
 
 - Windows Operating system.<br>
 - JRE and JDK.<br>
-- MySQL server (WAMP)<br>
+- MySQL server (XAMPP)<br>
 
 # DESIGN<br>
 
