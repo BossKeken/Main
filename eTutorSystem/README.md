@@ -6,7 +6,7 @@
    - `git clone https://github.com/BossKeken/eTutor.git`
 2. Install Netbeans 8.2
 3. Use WAMP server.
-4. First create the MySql database on WAMP server using the sql file in the repo
+4. First create the MySql database on XAMPP server using the sql file in the repo
 5. And then build and run the LoadingScreen.java or Main.java file from the IDE.
 
 **Login Information** <br>
